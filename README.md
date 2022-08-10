@@ -28,7 +28,7 @@ Tools
 ## Quickstart
 
 ```
-git clone https://github.com/areezladhani/hardhat-raffle
+git clone https://github.com/areezladhani/Dynamic-on-chain-NFT
 cd hardhat-raffle
 yarn
 ```
@@ -59,7 +59,7 @@ yarn hardhat coverage
 
 1. Setup environment variabltes
 
-You'll want to set your `RINKEBY_RPC_URL` and `PRIVATE_KEY` as environment variables. You can add them to a `.env` file, similar to what you see in `.env.example`.
+You'll want to set your `RINKEBY_RPC_URL` and `PRIVATE_KEY` as environment variables. You can add them to a `.env` file.
 
 - `PRIVATE_KEY`: The private key of your account (like from [metamask](https://metamask.io/)). **NOTE:** FOR DEVELOPMENT, PLEASE USE A KEY THAT DOESN'T HAVE ANY REAL FUNDS ASSOCIATED WITH IT.
   - You can [learn how to export it here](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key).
